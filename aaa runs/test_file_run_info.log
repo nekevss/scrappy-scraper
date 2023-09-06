@@ -1,0 +1,80 @@
+2023/03/08 11:23:44 Beginning process for item: ﻿404614
+2023/03/08 11:23:44 Requesting "/product_﻿404614" from sites
+2023/03/08 11:23:46 Scrapped Images: []
+2023/03/08 11:23:46 Beginning process for item: 1553066
+2023/03/08 11:23:46 Requesting "/product_1553066" from sites
+2023/03/08 11:23:47 Image Gallery Found for SKU
+2023/03/08 11:23:47 Scrapped Images: ["https://www.staples-3p.com/s7/is/image/Staples/m002026788_sc7"]
+2023/03/08 11:23:47 Recieved a mime type of:  image/jpeg
+2023/03/08 11:23:47 Image diff value is: 3594891692
+2023/03/08 11:23:47 Is fetched image different from the provided?  true
+2023/03/08 11:23:47 Beginning process for item: CWNNR0310GY
+2023/03/08 11:23:47 Requesting "/product_CWNNR0310GY" from sites
+2023/03/08 11:23:50 Image Gallery Found for SKU
+2023/03/08 11:23:50 Scrapped Images: ["https://images.staplesadvantage.com/is/image/Staples/sp64081880_sc7" "https://images.staplesadvantage.com/is/image/Staples/sp64081881_sc7" "https://images.staplesadvantage.com/is/image/Staples/sp64081882_sc7"]
+2023/03/08 11:23:50 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 11:23:51 Recieved a mime type of:  image/png
+2023/03/08 11:23:51 Different content type was found:  image/png
+2023/03/08 11:23:51 Auto failing image
+2023/03/08 11:23:51 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 11:23:52 Recieved a mime type of:  image/png
+2023/03/08 11:23:52 Different content type was found:  image/png
+2023/03/08 11:23:52 Auto failing image
+2023/03/08 11:23:52 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 11:23:56 Recieved a mime type of:  image/jpeg
+2023/03/08 11:23:56 Bounds don't match between fetched (0,0)-(400,320) and (0,0)-(400,400)
+2023/03/08 11:23:56 Is fetched image different from the provided?  true
+2023/03/08 11:23:56 Row provided to add: ["https://images.staplesadvantage.com/is/image/Staples/sp64081880_sc7 did not return a valid jpg content-type." "https://images.staplesadvantage.com/is/image/Staples/sp64081881_sc7 did not return a valid jpg content-type."]
+2023/03/08 11:23:56 Run time was  12.6456197s
+2023/03/08 11:43:32 Beginning process for item: ﻿404614
+2023/03/08 11:43:32 Requesting "/product_﻿404614" from sites
+2023/03/08 11:43:34 Scrapped Images: []
+2023/03/08 11:43:34 Beginning process for item: 1553066
+2023/03/08 11:43:34 Requesting "/product_1553066" from sites
+2023/03/08 11:43:34 Image Gallery Found for SKU
+2023/03/08 11:43:34 Scrapped Images: ["https://www.staples-3p.com/s7/is/image/Staples/m002026788_sc7"]
+2023/03/08 11:43:35 Image diff value is: 3594891692
+2023/03/08 11:43:35 Is fetched image different from the provided?  true
+2023/03/08 11:43:35 Beginning process for item: CWNNR0310GY
+2023/03/08 11:43:35 Requesting "/product_CWNNR0310GY" from sites
+2023/03/08 11:43:35 Image Gallery Found for SKU
+2023/03/08 11:43:35 Scrapped Images: ["https://images.staplesadvantage.com/is/image/Staples/sp64081880_sc7" "https://images.staplesadvantage.com/is/image/Staples/sp64081881_sc7" "https://images.staplesadvantage.com/is/image/Staples/sp64081882_sc7"]
+2023/03/08 11:43:35 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 11:43:36 Bounds don't match between fetched (0,0)-(400,267) and (0,0)-(400,400)
+2023/03/08 11:43:36 Is fetched image different from the provided?  true
+2023/03/08 11:43:36 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 11:43:36 Bounds don't match between fetched (0,0)-(400,321) and (0,0)-(400,400)
+2023/03/08 11:43:36 Is fetched image different from the provided?  true
+2023/03/08 11:43:36 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 11:43:36 Bounds don't match between fetched (0,0)-(400,320) and (0,0)-(400,400)
+2023/03/08 11:43:36 Is fetched image different from the provided?  true
+2023/03/08 11:43:36 Run time was  3.8925913s
+2023/03/08 15:39:41 Beginning process for item: ﻿404614
+2023/03/08 15:39:41 Requesting "/product_﻿404614" from sites
+2023/03/08 15:39:42 Scrapped Images: []
+2023/03/08 15:39:42 Beginning process for item: 1553066
+2023/03/08 15:39:42 Requesting "/product_1553066" from sites
+2023/03/08 15:39:43 Image Gallery Found for SKU
+2023/03/08 15:39:43 Scrapped Images: ["https://www.staples-3p.com/s7/is/image/Staples/m002026788_sc7"]
+2023/03/08 15:39:43 Image diff value is: 3594891692
+2023/03/08 15:39:43 Is fetched image different from the provided?  true
+2023/03/08 15:39:43 Beginning process for item: CWNNR0310GY
+2023/03/08 15:39:43 Requesting "/product_CWNNR0310GY" from sites
+2023/03/08 15:39:45 Image Gallery Found for SKU
+2023/03/08 15:39:45 Scrapped Images: ["https://images.staplesadvantage.com/is/image/Staples/sp64081880_sc7" "https://images.staplesadvantage.com/is/image/Staples/sp64081881_sc7" "https://images.staplesadvantage.com/is/image/Staples/sp64081882_sc7"]
+2023/03/08 15:39:45 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 15:39:45 Bounds don't match between fetched (0,0)-(400,267) and (0,0)-(400,400)
+2023/03/08 15:39:45 Is fetched image different from the provided?  true
+2023/03/08 15:39:45 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 15:39:45 Bounds don't match between fetched (0,0)-(400,321) and (0,0)-(400,400)
+2023/03/08 15:39:45 Is fetched image different from the provided?  true
+2023/03/08 15:39:45 images.staplesadvantage.com URL found. URL will be converted to staples-3p
+2023/03/08 15:39:45 Bounds don't match between fetched (0,0)-(400,320) and (0,0)-(400,400)
+2023/03/08 15:39:45 Is fetched image different from the provided?  true
+2023/03/08 15:39:45 Beginning process for item: 108981
+2023/03/08 15:39:45 Requesting "/product_108981" from sites
+2023/03/08 15:39:46 Image Gallery Found for SKU
+2023/03/08 15:39:46 Scrapped Images: ["https://www.staples-3p.com/s7/is/image/Staples/m007134144_sc7"]
+2023/03/08 15:39:46 Image diff value is: 30863937408
+2023/03/08 15:39:46 Is fetched image different from the provided?  true
+2023/03/08 15:39:46 Run time was  4.8959438s
